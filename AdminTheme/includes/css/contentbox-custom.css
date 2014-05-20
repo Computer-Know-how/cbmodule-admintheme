@@ -1,0 +1,14 @@
+/* Remove the footer logo */
+footer #footerLogo img {
+	display: none;
+}
+
+/* Change the color of all our icons */
+.icon-large {
+	color: #8fc73e;
+}
+
+/* Increase the width of our styles dropdown in CKEditor */
+.cke_combopanel {
+	width: 400px !important;
+}
